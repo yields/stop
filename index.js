@@ -16,6 +16,6 @@
 module.exports = function(e){
   e = e || window.event;
   return e.stopPropagation
-    ? e.stopPropagation();
+    ? e.stopPropagation()
     : e.cancelBubble = true;
 };
