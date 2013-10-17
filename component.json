@@ -2,7 +2,7 @@
   "name": "stop",
   "repo": "yields/stop",
   "description": "Cross-browser .stopPropagation.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {},
   "development": {},
